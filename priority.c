@@ -1,3 +1,4 @@
+// C programming code to describe and to implementing the concept of priority queue .
 #include<stdio.h>
 #include<stdlib.h>
 
