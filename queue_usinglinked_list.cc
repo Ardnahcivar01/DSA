@@ -1,3 +1,4 @@
+// This program is to implementing singl-linkdelist using queue 
 #include<stdio.h>
 #include<stdlib.h>
 struct Node *f =NULL;
