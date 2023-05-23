@@ -1,3 +1,4 @@
+// C++ program to implementing the concept of output manupulators in c++ .
 #include<iostream>
 #include<iomanip>
 using namespace std;
