@@ -1,3 +1,4 @@
+// This program is to implement the stack using array.
 #include<stdio.h>
 #include<stdlib.h>
 
