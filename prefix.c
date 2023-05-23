@@ -1,3 +1,4 @@
+// Program to find the prefix of the given infix .
 #include <limits.h>
 #include <stdio.h>
 #include <stdlib.h>
