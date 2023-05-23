@@ -1,3 +1,4 @@
+// This is program to implementing linkedlist using Stack.
 #include<stdio.h>
 #include<stdlib.h>
 
